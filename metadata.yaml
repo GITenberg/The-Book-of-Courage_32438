@@ -1,0 +1,28 @@
+_repo: The-Book-of-Courage_32438
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32438-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Faris, John T. (John Thomson)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '35849'
+    url: http://www.gutenberg.org/2009/agents/35849
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32438'
+  lccn: '20008016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+- !lcsh 'Courage'
+title: The Book of Courage
+url: http://www.gutenberg.org/ebooks/32438
